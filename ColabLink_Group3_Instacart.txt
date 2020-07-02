@@ -1,5 +1,0 @@
-Link to Colab for LightGBM and MarketBasket:
-
-https://colab.research.google.com/drive/1ItC3THQn7yFkoLuoR7TQge8mSXX5Y8-V
-
-https://colab.research.google.com/drive/1UrvPkz7tywD16sECOh4ShTRgAxCDAViD
